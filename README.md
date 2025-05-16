@@ -1,2 +1,2 @@
-# om_asset
-Modifikasi Asset Depreciation
+# Custom Asset Managemen
+Modifikasi Asset Depreciation pada metode Degressive, dimana penyusutan dihitung per tahun, akan tetapi dijurnal per bulan, 
